@@ -1,0 +1,14 @@
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\bin\Debug\net8.0\DomashnaRabota.exe
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\bin\Debug\net8.0\DomashnaRabota.deps.json
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\bin\Debug\net8.0\DomashnaRabota.runtimeconfig.json
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\bin\Debug\net8.0\DomashnaRabota.dll
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\bin\Debug\net8.0\DomashnaRabota.pdb
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\DomashnaRabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\DomashnaRabota.AssemblyInfoInputs.cache
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\DomashnaRabota.AssemblyInfo.cs
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\DomashnaRabota.csproj.CoreCompileInputs.cache
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\DomashnaRabota.dll
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\refint\DomashnaRabota.dll
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\DomashnaRabota.pdb
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\DomashnaRabota.genruntimeconfig.cache
+C:\Uni\VVPr\DomashnaRabota\DomashnaRabota\obj\Debug\net8.0\ref\DomashnaRabota.dll

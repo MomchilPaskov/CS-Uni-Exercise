@@ -1,0 +1,14 @@
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\bin\Debug\net8.0\TuLekciq2.exe
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\bin\Debug\net8.0\TuLekciq2.deps.json
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\bin\Debug\net8.0\TuLekciq2.runtimeconfig.json
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\bin\Debug\net8.0\TuLekciq2.dll
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\bin\Debug\net8.0\TuLekciq2.pdb
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\TuLekciq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\TuLekciq2.AssemblyInfoInputs.cache
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\TuLekciq2.AssemblyInfo.cs
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\TuLekciq2.csproj.CoreCompileInputs.cache
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\TuLekciq2.dll
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\refint\TuLekciq2.dll
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\TuLekciq2.pdb
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\TuLekciq2.genruntimeconfig.cache
+C:\Uni\VVPr\TuLekciq2\TuLekciq2\obj\Debug\net8.0\ref\TuLekciq2.dll
