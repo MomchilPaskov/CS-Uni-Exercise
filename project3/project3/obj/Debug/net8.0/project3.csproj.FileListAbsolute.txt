@@ -1,0 +1,14 @@
+C:\Users\pasko\source\repos\project3\project3\bin\Debug\net8.0\project3.exe
+C:\Users\pasko\source\repos\project3\project3\bin\Debug\net8.0\project3.deps.json
+C:\Users\pasko\source\repos\project3\project3\bin\Debug\net8.0\project3.runtimeconfig.json
+C:\Users\pasko\source\repos\project3\project3\bin\Debug\net8.0\project3.dll
+C:\Users\pasko\source\repos\project3\project3\bin\Debug\net8.0\project3.pdb
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\project3.AssemblyInfoInputs.cache
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\project3.AssemblyInfo.cs
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\project3.csproj.CoreCompileInputs.cache
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\project3.dll
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\refint\project3.dll
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\project3.pdb
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\project3.genruntimeconfig.cache
+C:\Users\pasko\source\repos\project3\project3\obj\Debug\net8.0\ref\project3.dll
